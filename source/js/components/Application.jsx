@@ -29,19 +29,19 @@ var Application = React.createClass({
             <form onSubmit={this.handleFormSubmit}>
               <div className="radio">
                 <label>
-                  <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" onChange={this.handleOptionChange} checked={this.state.selectedOption === 'option1'} />
+                  <input type="radio" name="optionsRadios" value="option1" onChange={this.handleOptionChange} checked={this.state.selectedOption === 'option1'} />
                   Option 1
                 </label>
               </div>
               <div className="radio">
                 <label>
-                  <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2" onChange={this.handleOptionChange} checked={this.state.selectedOption === 'option2'} />
+                  <input type="radio" name="optionsRadios" value="option2" onChange={this.handleOptionChange} checked={this.state.selectedOption === 'option2'} />
                   Option 2
                 </label>
               </div>
               <div className="radio">
                 <label>
-                  <input type="radio" name="optionsRadios" id="optionsRadios3" value="option3" onChange={this.handleOptionChange} checked={this.state.selectedOption === 'option3'} />
+                  <input type="radio" name="optionsRadios" value="option3" onChange={this.handleOptionChange} checked={this.state.selectedOption === 'option3'} />
                   Option 3
                 </label>
               </div>
