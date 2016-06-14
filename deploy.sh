@@ -6,7 +6,7 @@ export NODE_ENV=production
 # Run Gulp task
 gulp build-for-production
 
-# Commit
+# Commit and push
 git add .
 git commit -m "Update" && git push
 
