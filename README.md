@@ -1,4 +1,6 @@
-**THIS REPOSITORY IS DEPRECATED.** Please go to: https://github.com/fedosejev/radio-buttons-in-react-16
+**THIS REPOSITORY IS DEPRECATED.**
+
+Please go to: https://github.com/fedosejev/radio-buttons-in-react-16
 
 ---
 
